@@ -7,6 +7,6 @@ public class Demo1 {
         Thread.sleep(2000);
         t.interrupt();
 
-        System.out.println("end!");
+        System.out.println("end!!!!");
     }
 }
